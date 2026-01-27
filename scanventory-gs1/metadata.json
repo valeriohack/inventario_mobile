@@ -1,0 +1,7 @@
+{
+  "name": "ScanVentory GS1",
+  "description": "Professional inventory management app with GS1 DataMatrix support, barcode scanning, and Excel export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
