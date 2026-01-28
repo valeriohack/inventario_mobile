@@ -1,0 +1,6 @@
+
+{
+  "name": "ScanVentory PRO",
+  "description": "Inventory management optimized for smartphones",
+  "requestFramePermissions": ["camera"]
+}
